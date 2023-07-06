@@ -1,0 +1,14 @@
+{
+    "name": "yan/cadastro",
+    "autoload": {
+        "psr-4": {
+            "Yan\\Cadastro\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "s"
+        }
+    ],
+    "require": {}
+}
